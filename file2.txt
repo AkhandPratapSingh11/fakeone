@@ -1,2 +1,3 @@
 This is file 2.
 Some changes made.
+new changes made.
